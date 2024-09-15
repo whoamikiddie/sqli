@@ -1,4 +1,4 @@
 SQLISCANNER
 
 
-It's for Blind sql injection
+It's for Blind sql injection but it is testing... !! 
